@@ -2,6 +2,7 @@
 <img align="left" width="0" height="192px" hspace="10"/>
 
 > Project Kronii is a fork of <a href="https://github.com/PojavLauncherTeam/PojavLauncher">PojavLauncher</a>.
+
 [![GPLv3 License](https://img.shields.io/badge/license-GPLv3-007EC7.svg?style=flat)](/LICENSE) 
 [![CI Status](https://github.com/xscnev/kronlaunch/workflows/Android%20CI/badge.svg)](https://github.com/xscnev/kronlaunch/actions)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/xscnev.svg?style=flat&label=Follow%20%40xscnev)](https://twitter.com/xscnev)
