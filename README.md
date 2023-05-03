@@ -9,7 +9,7 @@
 
 * This project also claims to remove Offline Mode, one of the most prominent piracy issue lingering around the community.
 
-* Support for this project is NOT provided via the PojavLauncher community. For issues, report them on this [repository's issues tab.](https://github.com/xscnev/kronlaunch/issues).
+* Support for this project is NOT provided via the PojavLauncher community. For issues, report them on this [repository's issues tab](https://github.com/xscnev/kronlaunch/issues).
 
 To switch into the "bleeding-bleeding-edge" section of this repository (with changes, like early C++ migration), switch the branch to [edge](https://github.com/xscnev/kronlaunch/tree/edge).
 
