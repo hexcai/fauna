@@ -21,6 +21,7 @@ To switch into the "bleeding-bleeding-edge" section of this repository (with cha
   * [Dotfiles](#dotfiles)
 * [Creating Packages](#creating-packages)
 
+# EVERYTHING BELOW IS A WORK IN PROGRESS.
 ## Installation
 
 You can get started right away with the default setup by running this in your terminal:
